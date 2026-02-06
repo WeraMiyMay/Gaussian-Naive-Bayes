@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project demonstrates a **multiclass classification** task using the **Gaussian Naive Bayes** algorithm.  
 The model predicts the **candy brand** based on a set of features such as:
@@ -33,7 +33,7 @@ The project also includes:
 
 ---
 
-## 🎯 Purpose of the Model
+##  Purpose of the Model
 
 The goal is to teach a model how different candy properties relate to their brand.  
 Gaussian Naive Bayes is chosen because:
@@ -52,24 +52,24 @@ This project helps understand:
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 The script generates:
 
-### 1️⃣ Class Distribution Plot  
+###  Class Distribution Plot  
 Shows how candies are distributed by **sugar percent** and **price percent**, using a unique color and marker for each brand.
 
-### 2️⃣ Error Visualization Plot  
+###  Error Visualization Plot  
 Highlights:
 
-- 🟢 correctly classified samples  
-- 🔴 misclassified samples  
+-  correctly classified samples  
+-  misclassified samples  
 
 This helps evaluate model behavior and potential weaknesses.
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 - **Python 3.x**  
 - **Pandas** — data processing  
@@ -79,7 +79,7 @@ This helps evaluate model behavior and potential weaknesses.
 
 ---
 
-## 🚀 Running the Project
+##  Running the Project
 
 1. Place `candy_data.csv` in the project folder.  
 2. Install required libraries:
