@@ -45,10 +45,10 @@ Gaussian Naive Bayes is chosen because:
 
 This project helps understand:
 
-✔ how probabilistic models work  
-✔ how to train and evaluate classifiers  
-✔ how to visualize multidimensional data  
-✔ how model errors can be interpreted  
+- how probabilistic models work  
+- how to train and evaluate classifiers  
+- how to visualize multidimensional data  
+- how model errors can be interpreted  
 
 ---
 
